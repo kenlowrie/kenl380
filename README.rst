@@ -6,4 +6,4 @@ that I don't conflict with other modules and packages.
 
 ---------------
 
-To see an example of a submodule that would be installed within this namespace, take a look at ``pylib``, which you can find on GitHub `in this repository<https://github.com/kenlowrie/pylib>`_.
+To see an example of a submodule that would be installed within this namespace, take a look at ``pylib``, which you can find on GitHub `in this repository <https://github.com/kenlowrie/pylib>`_.
